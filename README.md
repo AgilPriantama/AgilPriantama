@@ -6,7 +6,7 @@
 [![Static Badge](https://img.shields.io/badge/agilpri19%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white&link=mailto%3Aagilpri19%40gmail.com)
 ](mailto:agilpri19@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://agilpriantama.github.io/)
+- 🎯 Portfolio website: [Portfolio]
 - 👨‍💻 All of my projects are available at https://github.com/AgilPriantama
 - 📫 How to reach me? Just mail me (agilpri19@gmail.com)
 
